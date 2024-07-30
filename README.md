@@ -18,3 +18,20 @@ File: TimeSeriesForecasting.py
 
 Description: This project focuses on time series forecasting using historical sales data. It includes steps for data visualization, time series decomposition, and building a forecasting model using ARIMA from the statsmodels library. The project provides insights into trends and seasonality, and it makes future sales predictions.
 
+# Requirements
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+jupyter
+
+# License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+# Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
+
+# Contact
+For any questions or inquiries, please message me here on Github.
