@@ -33,6 +33,16 @@ scikit-learn
 
 jupyter
 
+## Running this project
+
+### 1. Clone this repository
+
+### 2. Requirements.txt
+
+You can run ```pip install -r requirements.txt``` to install all required libraries
+
+### 3. Explore!
+
 # License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
