@@ -20,11 +20,17 @@ Description: This project focuses on time series forecasting using historical sa
 
 # Requirements
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 statsmodels
+
 scikit-learn
+
 jupyter
 
 # License
